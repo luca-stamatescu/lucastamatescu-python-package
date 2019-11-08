@@ -1,0 +1,6 @@
+.idea/
+MANIFEST
+build/
+dist/
+lucastamatescu/__pycache__/
+lucastamatescu.egg-info/
